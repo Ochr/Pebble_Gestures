@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pebble Gestures</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="icon_content_description">Icon Content Description</string>
+    <string name="flick_up">Flick Up</string>
+    <string name="flick_down">Flick Down</string>
+    <string name="flick_forward">Flick Forward</string>
+    <string name="flick_backward">Flick Backward</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="previous_track">Previous Track</string>
+    <string name="next_track">Next Track</string>
+    <string name="toggle_flashlight">Flashlight On/Off</string>
+
+    <string name="open_chrome">Open Chrome</string>
+    <string name="volume_down">Decrease Volume</string>
+    <string name="volume_up">Increase Volume</string>
+
+    <string name="add_button">Add Gesture</string>
+    <string name="del_button">Delete Custom Gestures</string>
+
+
+</resources>
